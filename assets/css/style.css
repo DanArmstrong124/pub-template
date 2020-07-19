@@ -1,0 +1,25 @@
+.cardo {
+    font-family: 'Cardo', serif;
+}
+
+.cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.tac {
+    text-align: center;
+}
+
+/* Nav */
+
+.nav-bar {
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-bottom: 3px solid goldenrod;
+}
+
+.title {
+    padding-top: 20px;
+    letter-spacing: 5px;
+}
