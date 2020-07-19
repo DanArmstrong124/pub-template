@@ -23,3 +23,7 @@
     padding-top: 20px;
     letter-spacing: 5px;
 }
+
+.bg-none {
+    background-color: none !important;
+}
