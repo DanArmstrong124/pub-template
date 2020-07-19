@@ -1,0 +1,9 @@
+.title-font {
+    font-size: 40px;
+}
+
+@include media-breakpoint-up(xs) {
+  .title-font {
+    font-size: 10px;
+  }
+}
