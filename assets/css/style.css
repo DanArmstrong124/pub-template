@@ -60,3 +60,9 @@
     padding-left: 20px;
     padding-bottom: 45px;
 }
+
+.image-placement {
+     background-image: url("assets/img/wereback.png") !important;
+     background-color: #cccccc;
+     width: 100%;
+}
