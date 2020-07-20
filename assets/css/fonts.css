@@ -1,6 +1,12 @@
 .title-font {
     font-size: 40px;
 }
+    .logo-spacing {
+        font-size: 20px;
+    }
+    .menu-text {
+        font-size: 20px;
+    }
 
 @media only screen and (max-width: 600px) {
   .title-font {
@@ -10,6 +16,12 @@
       padding-top: 30px;
       padding-right: 65px;
   }
+    .menu-text {
+      display: none;
+    }
+    .logo-spacing {
+        font-size: 20px;
+    }
 }
 
 @media only screen and (max-width: 450px) {
@@ -21,6 +33,9 @@
       padding-top: 30px;
       padding-right: 65px;
   }
+    .menu-text {
+      display: none;
+    }
 }
 
 @media only screen and (max-width: 350px) {
@@ -31,5 +46,8 @@
   .title {
       padding-top: 30px;
       padding-right: 80px;
+  }
+  .menu-text {
+      display: none;
   }
 }
