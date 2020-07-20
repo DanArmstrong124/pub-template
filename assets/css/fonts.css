@@ -11,3 +11,25 @@
       padding-right: 65px;
   }
 }
+
+@media only screen and (max-width: 450px) {
+  .title-font {
+    font-size: 20px;
+    letter-spacing: 3px;
+  }
+  .title {
+      padding-top: 30px;
+      padding-right: 65px;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .title-font {
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+  .title {
+      padding-top: 30px;
+      padding-right: 80px;
+  }
+}
