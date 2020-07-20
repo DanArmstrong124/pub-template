@@ -2,8 +2,8 @@
     font-size: 40px;
 }
 
-@include media-breakpoint-up(xs) {
+@media only screen and (max-width: 600px) {
   .title-font {
-    font-size: 10px;
+    font-size: 30px;
   }
 }
