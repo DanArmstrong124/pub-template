@@ -6,4 +6,8 @@
   .title-font {
     font-size: 30px;
   }
+  .title {
+      padding-top: 30px;
+      padding-right: 65px;
+  }
 }
